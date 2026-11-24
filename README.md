@@ -1,7 +1,7 @@
 # Magic 8 Ball
 <div align="center">
 
-![Screenshot of Magic 8 Ball](magic-8ball.png)
+![Screenshot of Magic 8 Ball](magic8ball.png)
 </div>
 <p>Re-live the antics of the original Magic 8 Ball, now ported to the Casio FX-602P. Instead of a white plastic icosahedron (a polyhedron with 20 faces) die, floating in alcohol dyed dark blue, the calculator uses a pseudo-random number generator to determine which message to display on the LCD screen. In the past, the only way to ensure a random message would be to shake the ball first. With this version, that's no longer necessary.</p>
 <p>To use, press P1 to run this program. It will display "Magic 8Ball" and then wait. Think of a yes or no question, then press the EXE button to get your answer. Ask as many questions as you like, pressing the EXE button for each to get your response.</p>
